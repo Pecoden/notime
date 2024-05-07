@@ -958,8 +958,8 @@
 
 .u-section-3 .u-image-1 {
   height: 222px;
-  width: 305px;
-  margin: 0 2px;
+  width: 200px;
+  margin: 0 53px;
 }
 
 .u-section-3 .u-text-2 {
@@ -983,8 +983,8 @@
 
 .u-section-3 .u-image-2 {
   height: 222px;
-  width: 305px;
-  margin: 0 2px;
+  width: 200px;
+  margin: 0 53px;
 }
 
 .u-section-3 .u-text-3 {
@@ -1010,8 +1010,8 @@
 
 .u-section-3 .u-image-3 {
   height: 222px;
-  width: 305px;
-  margin: 0 2px;
+  width: 200px;
+  margin: 0 53px;
 }
 
 .u-section-3 .u-text-4 {
@@ -1037,8 +1037,8 @@
 
 .u-section-3 .u-image-4 {
   height: 222px;
-  width: 305px;
-  margin: 0 2px;
+  width: 200px;
+  margin: 0 53px;
 }
 
 .u-section-3 .u-text-5 {
@@ -2203,8 +2203,9 @@
     margin-bottom: 38px;
   }
 } .u-section-7 {
-  background-image: url("images/web-phone.png");
+  background-color: #ec6a43;
   background-position: 50% 50%;
+  height: 400px;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -2214,18 +2215,18 @@
 .u-section-7 .u-text-1 {
   font-weight: 700;
   font-size: 2.25rem;
-  margin: 116px auto 0 0;
+  margin: 72px auto 0;
 }
 
 .u-section-7 .u-text-2 {
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 18px auto 0 0;
+  margin: 20px auto 0;
 }
 
 .u-section-7 .u-list-1 {
   width: 612px;
-  margin: 65px auto 60px 0;
+  margin: 72px auto 0;
 }
 
 .u-section-7 .u-repeater-1 {
