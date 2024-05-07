@@ -68,7 +68,11 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 642px;
+    min-height: 741px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 173px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -77,6 +81,11 @@
 
   .u-section-1 .u-image-1 {
     min-height: 355px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 80px;
+    margin-bottom: 42px;
   }
 }
 
