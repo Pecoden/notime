@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: none;
+  background-color: white;
   min-height: 793px;
 }
 
@@ -18,11 +18,11 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: url("../../images/log-in-girl.svg");
+  background-image: url("../../images/log-in-girl.png");
 }
 
 .u-section-1 .u-image-1 {
-  background-image: url("../../images/log-in-girl.svg");
+  background-image: url("../../images/log-in-girl.png");
 }
 
 .u-section-1 .u-container-layout-1 {
