@@ -624,7 +624,7 @@
   font-size: 1.5rem;
   font-weight: 400;
   width: 324px;
-  margin: 48px auto 0;
+  margin: 48px auto 0 -20px;
 }
 
 .u-section-4 .u-list-item-2 {
@@ -653,7 +653,7 @@
   font-size: 1.5rem;
   font-weight: 400;
   width: 324px;
-  margin: 48px auto 0;
+  margin: 48px auto 0 -20px;
 }
 
 .u-section-4 .u-list-item-3 {
@@ -682,7 +682,7 @@
   font-size: 1.5rem;
   font-weight: 400;
   width: 324px;
-  margin: 48px auto 0;
+  margin: 48px auto 0 -20px;
 }
 
 @media (max-width: 1399px) {
